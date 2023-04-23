@@ -4,15 +4,7 @@
 
 ---
 
-<div align="center" margin-right="15" margin-bottom="100">
-  <img src="https://media.giphy.com/media/26xBspY06mc2wFVrq/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/l3q2QJl6U0MlNCjTy/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/l3q2NvqacEdhTJ6Mw/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/l3q2uwhr1djLYkHMQ/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/l44QkcgKIwjdIBvs4/giphy.gif" width="50"/>
-</div>
-
----
+<h1 style="text-align: center;"> Languages and Tools </h1>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
