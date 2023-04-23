@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="200"/>
 </div>
 
----
-
 <h1 style="text-align: center;"> Languages and Tools </h1>
 
 <div align="center">
