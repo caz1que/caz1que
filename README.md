@@ -4,9 +4,13 @@
 
 ---
 
-### Languages and Tools :
-
-<span align="center"> Hello </span>
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBspY06mc2wFVrq/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l3q2QJl6U0MlNCjTy/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l3q2NvqacEdhTJ6Mw/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l3q2uwhr1djLYkHMQ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l44QkcgKIwjdIBvs4/giphy.gif" width="200"/>
+</div>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
