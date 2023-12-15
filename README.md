@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-  All due respect, you got no fuckin' idea what it's like to be Number One
+  All due respect, you got no fuсkin' idea what it's like to be Number One
 </h1>
 
 <div id="header" align="center">
