@@ -1,7 +1,3 @@
-<h1 style="text-align: center;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;السلام عليكمالسلام عليكم
-</h1>
-
 ```
                                __            __                                
   ________  _  __ ____   _____/  |_    _____|  | ______   ______  _  _______   
